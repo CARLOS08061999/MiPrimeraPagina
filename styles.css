@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(99, 177, 181);
+    color: #333;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+
+}
+
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
